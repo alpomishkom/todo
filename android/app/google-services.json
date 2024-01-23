@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480417347684",
+    "project_id": "tudu-ea68b",
+    "storage_bucket": "tudu-ea68b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480417347684:android:85e35b819ec98d5674c771",
+        "android_client_info": {
+          "package_name": "com.example.to_du"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTV3UeR2KtvqXTz6uUoKJt_yd0s5aKFsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
